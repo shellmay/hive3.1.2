@@ -1,3 +1,6 @@
+# first of all
+## this is for hive on spark of hive3.1.2 and spark 3.0.0 you can use it to make your bigdata platform package shell : mvn clean package -Pdist -DskipTests -Dmaven.javadoc.skip=true
+
 Apache Hive (TM)
 ================
 [![Master Build Status](https://travis-ci.org/apache/hive.svg?branch=master)](https://travis-ci.org/apache/hive/branches)
